@@ -1,1 +1,15 @@
-# spice-grab-recipe-search
+# Spice Grab - Edamam API Recipe Search - A Code First Girls Project
+
+Spice Grab is a Python program using the Edamam API to find, print, and save recipes based on user inputs. Users can choose their ingredient(s) and other search criteria, including preferred dietary requirements, health requirements, and calorie count. A list of recipes and links to each will be displayed and saved to a text file called 'My Recipes'.
+
+<b> This is a collaborative final project presented with [HeidiWlk](https://github.com/HeidiWlk) at the end of our 8-week Introduction to Python course with Code First Girls. </b>
+
+<b> Requirement: </b> Register to [Edamam API](https://developer.edamam.com/) to generate an app ID and key. An example license has been inputted into the uploaded code.
+
+Here is an example of user input in action: <br /> <br />
+![Screen Shot 2023-02-23 at 12 43 59 PM](https://user-images.githubusercontent.com/120015880/220909380-7ed6534a-19f8-49e9-90a5-86906622e47b.png)
+<br /> 
+And voila! Some example results...<br /><br />
+![Screen Shot 2023-02-23 at 12 43 26 PM](https://user-images.githubusercontent.com/120015880/220909461-88f2ce27-3f65-48d2-aee8-c1abbbc2544e.png)
+<br />
+And the file that was saved:[My Recipes.txt](https://github.com/emililili/spice-grab-recipe-search/files/10813577/My.Recipes.txt)
